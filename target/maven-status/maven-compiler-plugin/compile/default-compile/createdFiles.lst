@@ -1,0 +1,8 @@
+net\codejava\model\Product.class
+net\codejava\service\ProductService.class
+net\codejava\service\PartService.class
+net\codejava\model\PartNumber.class
+net\codejava\repo\ProductRepository.class
+net\codejava\controller\AppController.class
+net\codejava\main\AppMain.class
+net\codejava\repo\ProductPartRepo.class
